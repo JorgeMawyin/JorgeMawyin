@@ -19,5 +19,5 @@ Hola!, este es mi repositorio personal en donde puedes encontrar información so
 
 ## Intereses
 * Desarrollo de aplicaciones web
-* Desarrollo videojuegos
+* Desarrollo de videojuegos
 * Bases de datos

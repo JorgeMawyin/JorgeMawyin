@@ -16,6 +16,9 @@ Hola!, este es mi repositorio personal en donde puedes encontrar información so
 * [Editor de Emojis exportables con interfaz gráfica hecha en Java](https://github.com/JorgeMawyin/Grupo_06)
 * [Implementacion de árbol multicaminos para la creación de diccionarios en formato .txt](https://github.com/JorgeMawyin/Grupo6---Arbol)
 * [Sistema de citas para niños con problemas motrices o cognitvos](https://github.com/JorgeMawyin/POO-P01-G01)
+* [Landing pages](https://jorgemawyin.github.io/landing/)
+* [Curriculum Vitae](https://jorgemawyin.github.io/curriculum/)
+* [Dashboard](https://jorgemawyin.github.io/dashboard/)
 
 ## Intereses
 * Desarrollo de aplicaciones web

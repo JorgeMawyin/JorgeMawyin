@@ -1,6 +1,6 @@
 # Repositorio personal
 
-Hola!, este es mi repositorio personal en donde puedes encontrar información sobre mí, misproyectos y mis intereses.
+Hola!, este es mi repositorio personal en donde puedes encontrar información sobre mí, mis proyectos y mis intereses.
 
 ## Contenido
 * [Información personal](#información-personal)

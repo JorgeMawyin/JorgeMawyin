@@ -1,6 +1,8 @@
 # Repositorio personal
 
-Hola!, este es mi repositorio personal en donde puedes encontrar información sobre mí, mis proyectos y mis intereses.
+👋 ¡Hola! Bienvenido a mi repositorio personal. Aquí encontrarás información sobre mí, mis proyectos y mis intereses. Explora mis repositorios para conocer mi trabajo.
+
+📌 Siempre estoy abierto a mejorar y compartir conocimiento. ¡Gracias por visitar mi perfil!
 
 ## Contenido
 * [Información personal](#información-personal)
@@ -9,7 +11,7 @@ Hola!, este es mi repositorio personal en donde puedes encontrar información so
 
 ## Información personal
 * Nombre: Jorge Mawyin
-* Ocupación: Estudiante universitario de ESPOL de la carrera de ciencias de la computación
+* Ocupación: Estudiante de Ingeniería en Ciencias de la Computación
 * Mail: jmawyin@espol.edu.ec
 
 ## Proyectos
@@ -20,7 +22,25 @@ Hola!, este es mi repositorio personal en donde puedes encontrar información so
 * [Curriculum Vitae](https://jorgemawyin.github.io/curriculum/)
 * [Dashboard](https://jorgemawyin.github.io/dashboard/)
 
+## Lenguajes y Herramientas
+
+#Lenguajes
+* Python
+* Java
+* JavaScript
+* PHP
+
+#Frameworks
+* Angular
+* React
+* Flutter
+
+# Manejo de Datos
+* MySQL
+* Jupyter
+
 ## Intereses
-* Desarrollo de aplicaciones web
+* Desarrollo de aplicaciones
 * Desarrollo de videojuegos
 * Bases de datos
+* Ciencia de datos

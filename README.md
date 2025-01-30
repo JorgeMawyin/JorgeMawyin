@@ -35,7 +35,7 @@
 * React
 * Flutter
 
-# Manejo de Datos
+### Manejo de Datos
 * MySQL
 * Jupyter
 

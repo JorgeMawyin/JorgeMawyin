@@ -24,13 +24,13 @@
 
 ## Lenguajes y Herramientas
 
-# Lenguajes
+### Lenguajes
 * Python
 * Java
 * JavaScript
 * PHP
 
-# Frameworks
+### Frameworks
 * Angular
 * React
 * Flutter
